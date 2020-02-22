@@ -1,5 +1,3 @@
-
-https://github.com/niconisoria/project_building_blocks/blob/master/enumerable_methods.rb
 module Enumerable
     def my_each
       for x in self
